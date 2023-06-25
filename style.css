@@ -1,0 +1,9 @@
+#navbarNavDropdown{
+    justify-content: center;
+}
+h2{
+ color: rgb(2, 2, 82);
+}
+.d-flex{
+    align-items: flex-start;
+}
